@@ -166,6 +166,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate</code></pre>
 #
 
 <p align="center">
-    <strong>&copy; 2024 | how-I-learned-python</strong> 
+    <strong>&copy; 2024 | how-I-learned-python | </strong> 
     Managed by <a href="https://www.github.com/abhiverse01">abhiverse01</a>
 </p>

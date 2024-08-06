@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-
 <h1>How I Learned Python 🐍</h1>
 
 <p>Welcome to <strong>how-I-learned-python</strong>! This repository is a comprehensive guide to learning Python, compiling all the code syntax, resources, and practice exercises I used during my learning journey. Whether you're a beginner or an expert looking for a refresher, this guide aims to be your one-stop resource for Python programming.</p>
@@ -171,5 +163,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate</code></pre>
 <h2 id="license">License</h2>
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
 
-</body>
-</html>
+#
+
+<p align="left">
+    <strong>&copy; 2024 | how-I-learned-python</strong> 
+    <a href="https://github.com/abhiverse01/how-I-learned-python">@how-I-learned-python</a><br>
+    Managed by <a href="https://www.github.com/abhiverse01">abhiverse01</a>
+</p>

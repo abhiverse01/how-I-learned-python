@@ -256,4 +256,14 @@ def expensive_function(x):
 
 <p>This technique is particularly useful for optimizing functions that are expensive to compute and have repetitive calls.</p>
 
+#
+
 <p>By following these tips, you can enhance your productivity, write more maintainable code, and ensure that your Python projects are production-ready. If you have any specific questions or need further details on any of these points, feel free to ask!</p>
+
+# 
+
+<p align="left">
+    <strong>&copy; 2024 | pycode.optimization.tips</strong><br>
+    A sub-project of <a href="https://github.com/abhiverse01/how-I-learned-python">@how-I-learned-python</a><br>
+    Managed by <a href="https://www.github.com/abhiverse01">abhiverse01</a>
+</p>

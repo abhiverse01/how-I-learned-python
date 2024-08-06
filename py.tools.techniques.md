@@ -407,7 +407,7 @@ model.fit(X_train, y_train, epochs=5)
 
 #
 
-<p align="left">py.tools.techniques - sub-project of @how-I-learned-python</p>
-<p align="left">
-    :managed by @abhiverse01
+<p align="right">py.tools.techniques - sub-project of @how-I-learned-python</p>
+<p align="right">
+    : managed by [https://www.github.com/abhiverse01](abhiverse01)
 </p>

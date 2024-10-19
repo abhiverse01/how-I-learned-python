@@ -398,21 +398,6 @@ model.compile(optimizer='adam', loss=tf.keras.losses.SparseCategoricalCrossentro
 model.fit(X_train, y_train, epochs=5)
 </code></pre>
 
-#
-<p>These libraries provide powerful tools for building, training, and deploying machine learning models, making them essential for AI and machine learning projects.</p>
-
-#
-
-<p>By using these tools effectively, you can significantly enhance your productivity, streamline your development process, and build more robust and maintainable Python applications. If you have any specific questions or need further details on any of these tools, feel free to ask!</p>
-
-#
-
-<p align="left">
-    <strong>&copy; 2024 | py.tools.techniques</strong><br>
-    A sub-project of <a href="https://github.com/abhiverse01/how-I-learned-python">@how-I-learned-python</a><br>
-    Managed by <a href="https://www.github.com/abhiverse01">abhiverse01</a>
-</p>
-
 
 **19. Asynchronous Programming with asyncio and aiohttp**
 Asynchronous programming in Python allows you to write concurrent code that doesn’t block the execution of other tasks while waiting for an external event. The `asyncio` library provides the building blocks for writing asynchronous code, and `aiohttp` is an asynchronous HTTP client/server framework.
@@ -656,5 +641,18 @@ def greet_users(users: List[Dict[str, str]]) -> None:
 ```
 Using type hints helps catch type errors during development and makes your code easier to understand.
 
-These additional tools and concepts will significantly enhance your Python development skills and help you build more robust and scalable applications.
+#
+<p>These libraries provide powerful tools for building, training, and deploying machine learning models, making them essential for AI and machine learning projects.</p>
+
+#
+
+<p>By using these tools effectively, you can significantly enhance your productivity, streamline your development process, and build more robust and maintainable Python applications. If you have any specific questions or need further details on any of these tools, feel free to ask!</p>
+
+#
+
+<p align="left">
+    <strong>&copy; 2024 | py.tools.techniques</strong><br>
+    A sub-project of <a href="https://github.com/abhiverse01/how-I-learned-python">@how-I-learned-python</a><br>
+    Managed by <a href="https://www.github.com/abhiverse01">abhiverse01</a>
+</p>
 

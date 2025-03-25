@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 def main():
     # Use command line argument or default image file path
-    image_path = sys.argv[1] if len(sys.argv) > 1 else "sample.jpg"
+    image_path = sys.argv[1] if len(sys.argv) > 1 else "sample.png"
     if not os.path.exists(image_path):
         print(f"File {image_path} not found.")
         sys.exit(1)
